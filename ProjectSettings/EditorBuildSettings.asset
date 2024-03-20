@@ -14,4 +14,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_Scenes/Chase.unity
     guid: cc1dc37482adb47f0badf21fdf845066
+  - enabled: 1
+    path: Assets/_Scenes/Capture.unity
+    guid: 19519a7edd1d6344a8a73cd6e2a3bf01
+  - enabled: 1
+    path: Assets/_Scenes/GameOver.unity
+    guid: 90566c37b79f14be1b12a98e1eedb884
+  - enabled: 1
+    path: Assets/_Scenes/WinScene.unity
+    guid: da241ae039374495dbd6cdea0de8cbcb
   m_configObjects: {}
