@@ -4,11 +4,11 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
-public class GameOver : MonoBehaviour
+public class MainMenu : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
-    { 
+    {
         
     }
 
@@ -17,14 +17,10 @@ public class GameOver : MonoBehaviour
     {
         
     }
-    public void restart()
+
+    public void play()
     {
         SceneManager.LoadScene("Chase");
 
-
-    }
-    public void exit()
-    {
-        SceneManager.LoadScene("Menu");
     }
 }
